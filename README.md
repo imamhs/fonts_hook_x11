@@ -14,5 +14,13 @@ On Ubuntu you can install fixed fonts using following command:
 
 *sudo apt install xfonts-base*
 
+**Example:**
+
+Before applying the hook (Exile III: Ruined World on Ubuntu 25.10):
+<img width="587" height="488" alt="Screenshot From 2026-04-09 15-00-50" src="https://github.com/user-attachments/assets/65c456cb-4f1e-4470-80e4-a4e6a2b1511a" />
+
+After applying the hook (Exile III: Ruined World on Ubuntu 25.10):
+<img width="587" height="488" alt="Screenshot From 2026-04-09 15-00-06" src="https://github.com/user-attachments/assets/ae09252f-a8d7-462f-945a-9f15aacd7d3f" />
+
 Cheers,
 Imam
